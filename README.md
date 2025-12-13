@@ -1,9 +1,6 @@
 # 📝 Todo and Note App
 
-Aplikasi manajemen tugas dan catatan harian berbasis web yang sederhana, responsif, dan fungsional. Dibangun untuk memenuhi tugas mata kuliah **Analisis dan Perancangan Sistem** (atau SBD, sesuaikan).
-
-![Tampilan Aplikasi](https://via.placeholder.com/800x400?text=Screenshot+Aplikasi+Anda)
-*(Ganti link di atas dengan link gambar screenshot aplikasi Anda nanti)*
+Aplikasi manajemen tugas dan catatan harian berbasis web yang sederhana, responsif, dan fungsional.
 
 ## 🚀 Fitur Utama
 
