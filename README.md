@@ -18,7 +18,7 @@ Aplikasi ini memiliki dua fitur utama yang terintegrasi dalam satu halaman dasbo
 
 ## 🛠️ Teknologi yang Digunakan
 
-- **Backend:** PHP Native (v8.x)
+- **Backend:** PHP Native
 - **Database:** PostgreSQL
 - **Frontend:** HTML5, Tailwind CSS (via CDN)
 - **Server:** Apache (XAMPP) / Localhost
