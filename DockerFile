@@ -1,0 +1,10 @@
+FROM php:8.2-apache
+
+# Install ekstensi PostgreSQL
+RUN apt-get update && apt-get install -y libpq-dev \
+    && docker-php-ext-install pgsql pdo_pgsql
+
+# Copy semua file project ke folder web server
+COPY . /var/www/html/
+
+EXPOSE 80
